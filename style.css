@@ -52,3 +52,16 @@ h2 {
     padding: 20px;
     border-radius: 10px;
 }
+#web-dev-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, cyan);
+    border-image-slice: 1;
+}
+#full-stack-experience{
+    border-left: 7px solid;
+    border-image: linear-gradient(yellow, tomato);
+    border-image-slice: 1;
+}
+footer p {
+    text-align: center;
+}
